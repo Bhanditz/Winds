@@ -98,7 +98,7 @@
 				"validator": "^10.3.0",
 				"winston": "^3.0.0-rc6",
 				"winston-transport": "^4.1.0",
-				"yargs": "^11.0.0",
+				"yargs": "^13.1.0",
 				"zlib": "^1.0.5"
 		},
 		"devDependencies": {
