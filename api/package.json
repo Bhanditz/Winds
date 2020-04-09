@@ -81,7 +81,7 @@
 				"newrelic": "^4.1.4",
 				"node-opml-parser": "^1.0.0",
 				"node-statsd": "^0.1.1",
-				"nodemon": "^1.17.5",
+				"nodemon": "^2.0.3",
 				"normalize-url": "^3.0.1",
 				"opml-generator": "^1.1.1",
 				"raven": "^2.6.2",
