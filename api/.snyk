@@ -1,0 +1,26 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - async > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - bull > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - bull-arena > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - express-winston > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - newrelic > async > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - winston > async > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - bull-arena > bull > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - mongoose > async > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
+    - mongoose-bcrypt > mongoose > async > lodash:
+        patched: '2020-05-01T03:53:22.296Z'
