@@ -65,7 +65,7 @@
 				"iconv": "^2.3.0",
 				"iconv-js": "^0.3.5",
 				"jsonwebtoken": "^8.2.2",
-				"lodash": "^4.17.10",
+				"lodash": "^4.17.20",
 				"logform": "^1.7.0",
 				"md5": "^2.2.1",
 				"moment": "^2.22.2",
@@ -96,7 +96,7 @@
 				"url-regex": "^4.1.1",
 				"uuid": "^3.2.1",
 				"validator": "^10.3.0",
-				"winston": "^3.0.0-rc6",
+				"winston": "^3.0.0",
 				"winston-transport": "^4.1.0",
 				"yargs": "^11.0.0",
 				"zlib": "^1.0.5"
