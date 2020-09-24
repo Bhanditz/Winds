@@ -89,7 +89,7 @@
 				"require-all": "^2.2.0",
 				"require-directory": "^2.1.1",
 				"rss-finder": "^2.0.5",
-				"sanitize-html": "^1.18.2",
+				"sanitize-html": "^2.0.0",
 				"serve-favicon": "^2.5.0",
 				"stream-analytics": "^2.7.0",
 				"strip": "^3.0.0",
