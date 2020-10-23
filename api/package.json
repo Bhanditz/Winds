@@ -91,7 +91,7 @@
 				"rss-finder": "^2.0.5",
 				"sanitize-html": "^1.18.2",
 				"serve-favicon": "^2.5.0",
-				"stream-analytics": "^2.7.0",
+				"stream-analytics": "^3.0.0",
 				"strip": "^3.0.0",
 				"url-regex": "^4.1.1",
 				"uuid": "^3.2.1",
