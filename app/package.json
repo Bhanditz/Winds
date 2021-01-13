@@ -41,7 +41,7 @@
     "electron-open-link-in-browser": "^1.0.2",
     "electron-publisher-s3": "^20.14.0",
     "electron-remote": "^1.2.0",
-    "electron-updater": "^2.21.10",
+    "electron-updater": "^4.3.1",
     "github-buttons": "^0.0.1-security",
     "global": "^4.3.2",
     "history": "^4.7.2",
