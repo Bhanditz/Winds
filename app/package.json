@@ -30,7 +30,7 @@
     "dist": "npx build --x64 --macos --win --linux --c.extraMetadata.main=build/electron.js -p always"
   },
   "dependencies": {
-    "algoliasearch": "^3.27.1",
+    "algoliasearch": "^4.0.0",
     "axios": "^0.18.0",
     "babel-plugin-inline-dotenv": "^1.1.2",
     "electron-boilerplate": "^1.1.1",
