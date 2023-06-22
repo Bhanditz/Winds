@@ -30,7 +30,7 @@
     "dist": "npx build --x64 --macos --win --linux --c.extraMetadata.main=build/electron.js -p always"
   },
   "dependencies": {
-    "algoliasearch": "^3.27.1",
+    "algoliasearch": "^4.0.0",
     "axios": "^0.18.0",
     "babel-plugin-inline-dotenv": "^1.1.2",
     "electron-boilerplate": "^1.1.1",
@@ -41,7 +41,7 @@
     "electron-open-link-in-browser": "^1.0.2",
     "electron-publisher-s3": "^20.14.0",
     "electron-remote": "^1.2.0",
-    "electron-updater": "^2.21.10",
+    "electron-updater": "^4.2.1",
     "github-buttons": "^0.0.1-security",
     "global": "^4.3.2",
     "history": "^4.7.2",
@@ -51,8 +51,8 @@
     "md5": "^2.2.1",
     "moment": "^2.22.1",
     "moment-duration-format": "^2.2.2",
-    "node-notifier": "^5.2.1",
-    "node-sass-chokidar": "^1.3.0",
+    "node-notifier": "^7.0.0",
+    "node-sass-chokidar": "^2.0.0",
     "opn": "^5.3.0",
     "raven-js": "^3.25.2",
     "rc-slider": "^8.6.1",
